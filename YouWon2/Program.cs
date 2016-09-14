@@ -10,24 +10,26 @@ namespace YouWon2
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            Console.WriteLine("Pick an integer.");
-            int usersAnswer = int.Parse(Console.ReadLine());
-            
-            for (i = 0; i < int.MaxValue; i++)
+            int usersNumber;
+            while (true)
             {
-                for(i = 0; i % 3 !=0; i++)
+                Console.WriteLine("Pick an integer");
+                usersNumber = int.Parse(Console.ReadLine());
 
-
-                
+                if (usersNumber % 3 != 0)
                 {
-                    Console.WriteLine("You lost.");
+                    Console.WriteLine("You lost");
                 }
 
+//It goes from the IF back to the top, the writeline doesn't effect where it goes in the loop 
 
-                Console.WriteLine("You won.");
-                break;
-       
+
+                else
+                {
+                    Console.WriteLine("You Won!");
+                    
+//Same as before, the writeline doesn't make it stop, break does
+                }
             }
         }
     }
