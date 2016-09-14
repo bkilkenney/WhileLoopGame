@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\YouWon2\YouWon2\bin\Debug\YouWon2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\YouWon2\YouWon2\bin\Debug\YouWon2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\YouWon2\YouWon2\bin\Debug\YouWon2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\YouWon2\YouWon2\obj\Debug\YouWon2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\YouWon2\YouWon2\obj\Debug\YouWon2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\YouWon2\YouWon2\obj\Debug\YouWon2.pdb
